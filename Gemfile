@@ -41,6 +41,7 @@ gem 'bootstrap-sass', '~> 3.3'
 gem 'ckeditor', '~> 4.1'
 # devise security
 gem 'devise'
+#carrierwave and mini_magick for adding images to posts
 gem 'carrierwave'
 gem 'mini_magick'
 
